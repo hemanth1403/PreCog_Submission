@@ -34,4 +34,4 @@ Using that model we have calclulated the frequency of the detected objects
 
 and represented as follows
 
-<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_1/output.png"/>
+<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_2a/output.png"/>

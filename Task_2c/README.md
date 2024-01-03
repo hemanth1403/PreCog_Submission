@@ -17,7 +17,7 @@ We have built two models for the calssification task
 ## 1. Model - 1 (Deep learning model):
 
 Model Architecture:<br />
-<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_3/Model.png">
+<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_2c/Model.png">
 
 It mainly consists of 2 networks
 
@@ -35,10 +35,10 @@ Validation Accuracy: 71.82%
 ## Evalutation metrics :
 
 PR-Curve :<br />
-<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_3/PR_Curve.png">
+<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_2c/PR_Curve.png">
 
 ROC-Curve :<br />
-<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_3/ROC_Curve.png">
+<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_2c/ROC_Curve.png">
 
 ## 2. Model - 2 (KNN):
 
