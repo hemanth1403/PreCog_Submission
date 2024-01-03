@@ -47,7 +47,7 @@ To run this project on your local machine, follow these steps:
 1. Clone the project repository:
 
 ```bash
-   git clone [https://link-to-project](https://github.com/hemanth1403/PreCog_Submission.git)
+   git clone https://github.com/hemanth1403/PreCog_Submission.git
 ```
 
 2. Go to the project directory
