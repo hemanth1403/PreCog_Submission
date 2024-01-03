@@ -1,4 +1,4 @@
-# Precog-Submissions
+# Precog-Submission
 
 ## Overview
 
