@@ -16,7 +16,7 @@ This repository contains the submission for the Precog-2024 recruitment task by 
 ## Directory Structure of Submission
 
 1. All README files contains reports
-2. Directory structure is self explanatory, and in case of confusion, README files are there to clarify, (like in Q3)
+2. Directory structure is self explanatory, and in case of confusion, README files are there to clarify
 
 ## Libraries Used
 
@@ -46,22 +46,23 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the project repository:
 
-   bash
+```bash
    git clone [https://link-to-project](https://github.com/hemanth1403/PreCog_Submission.git)
+```
 
 2. Go to the project directory
 
-bash
-cd PreCog_Submission
+```bash
+  cd PreCog_Submission
+```
 
 3. Install Requirements
 
-bash
-pip3 install -r requirements.txt
-
+```bash
+  pip3 install -r requirements.txt
 ```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-```
