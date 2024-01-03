@@ -5,7 +5,8 @@ For the given task, We have used pretrained model ( Fast R-CNN with a backbone o
 The Model is previously trained on Pascal VOC dataset
 
 which contains the following classes:
-notepad
+
+```notepad
 background
 aeroplane
 bicycle
@@ -27,6 +28,7 @@ sheep
 sofa
 train
 tvmonitor
+```
 
 Using that model we have calclulated the frequency of the detected objects
 
