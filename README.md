@@ -2,6 +2,8 @@
 
 ## Overview
 
+I have choosen the computer vison task i.e TASK - 2
+
 This repository contains the submission for the Precog-2024 recruitment task by Madadapu HemanthSai, a B. Tech CSE - AIML student from MLR Institute of Technology. The project encompasses solutions to three task-specific questions demonstrating proficiency in machine learning and computer vision.
 
 ### Submitted By
